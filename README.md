@@ -4,4 +4,4 @@
 # Roles
   Boris takes the role “Editor”.
   Alexander takes the role “Shiffler”.
-  ШЕ ВИДИМ КОЙ takes the role “Styler”.
+  Dilyana takes the role “Styler”.
